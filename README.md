@@ -10,10 +10,14 @@ _Italic_
 <sup>Superscript</sup> text  
 <ins>Underline</ins> text  
 
+# Quote
 Text that is not a quote
 > Text that is a quote
 
-Colour
+# Colour
 `#0969DA`
 `rgb(9, 105, 218)`
 `hsl(212, 92%, 45%)`
+
+# Link
+This site was built using [GitHub Pages](https://pages.github.com/).
