@@ -29,4 +29,9 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - George Washington
 * John Adams
 + Thomas Jefferson
-  - f
+  - hahahaah
+
+# Todo List
+- [Buy coffee] #739
+- [Workout ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
