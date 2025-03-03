@@ -40,3 +40,4 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 | No. | Name | Age |
 | --- | --- | --- |
 | 1 | Ali | 13 |
+| 2 | Abu | 15 |
