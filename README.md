@@ -9,6 +9,6 @@ _Italic_
 <sub>Subscript</sub> text
 <sup>Superscript</sup> text
 <ins>Underline</ins> text
-/n
+\n
 Text that is not a quote
 > Text that is a quote
