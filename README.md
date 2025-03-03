@@ -37,5 +37,6 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 # Table
-|No.|Name|Age|
-|1|Ali|13|
+| No. | Name | Age |
+| --- | --- | --- |
+| 1 | Ali | 13 |
