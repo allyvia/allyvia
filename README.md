@@ -1,9 +1,8 @@
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
-**Bold**
-
-_Italic_
+**Bold**  
+_Italic_  
 ~~Strikethrough~~
 **Bold and _nested italic_**
 ***All bold and italic***
