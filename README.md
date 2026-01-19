@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allyvia/allyvia/main/chiikawa-dance.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/allyvia/allyvia/main/kafka.gif" width="100%" />
 </p>
 
 
