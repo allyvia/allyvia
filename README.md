@@ -10,13 +10,12 @@
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allyvia/allyvia/output/pacman-contribution-graph.svg">
         <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/allyvia/allyvia/output/pacman-contribution-graph.svg">
       </picture>
+      <p align="center">
+        <sub>generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a></sub>
+      </p>
     </td>
     <td valign="bottom">
       <img src="https://raw.githubusercontent.com/allyvia/allyvia/main/chiikawa.gif" width="150" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a></sub>
-</p>
