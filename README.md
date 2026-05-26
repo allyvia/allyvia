@@ -5,7 +5,7 @@
 <table border="0">
   <tr>
     <td>  
-      <img src="https://raw.githubusercontent.com/allyvia/allyvia/main/apple-cat.gif" width="100%" />
+      <img src="https://raw.githubusercontent.com/allyvia/allyvia/main/cat.gif" width="150" />
     </td>    
     <td>
       <picture>
