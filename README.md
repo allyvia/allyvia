@@ -4,8 +4,9 @@
 
 <table border="0">
   <tr>
-    <td>  
-      <img src="https://raw.githubusercontent.com/allyvia/allyvia/main/cat.gif" width="150" />
+    <td valign="bottom">  
+      <p align="center"><strong>Hello!</strong></p>
+      <img src="https://raw.githubusercontent.com/allyvia/allyvia/main/cat.gif" width="150" height="100%" />
     </td>    
     <td>
       <picture>
