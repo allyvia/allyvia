@@ -4,6 +4,9 @@
 
 <table border="0">
   <tr>
+    <td>  
+      <img src="https://raw.githubusercontent.com/allyvia/allyvia/main/apple-cat.gif" width="100%" />
+    </td>    
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allyvia/allyvia/output/pacman-contribution-graph-dark.svg">
@@ -19,6 +22,3 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/allyvia/allyvia/main/nyan.gif" width="100%" />
-</p>
